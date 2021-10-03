@@ -4,6 +4,6 @@ main()
 {
     int a=6,b=8,sum;
     sum=a+b;
-    printf("Ans is %d",sum);
+    printf("Ans %d",sum);
     getch();
 }
